@@ -7,7 +7,7 @@ echo 3.- solo subir archivos
 echo 4.- eliminar archivo de systema y de git
 echo 5.- eliminar archivo solo de git, esto mantiene el archivo en el sistema
 echo 6.- para más información envia correo a
-echo             alfonso.mendez@gmail.com
+echo             alfonso.mendez999@gmail.com
 
 read -p 'Introduce la opcion ' opc
 
